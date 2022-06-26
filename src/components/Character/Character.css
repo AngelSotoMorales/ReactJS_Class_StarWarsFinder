@@ -1,0 +1,15 @@
+.star {
+  cursor: pointer;
+  font-size: 200%;
+  color: red;
+}
+
+.star-selected {
+  cursor: pointer;
+  font-size: 200%;
+  color: blue;
+}
+
+.margin-top-notification {
+  margin-top: 5%;
+}

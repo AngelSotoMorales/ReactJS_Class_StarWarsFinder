@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  padding: 5%;
+}
+
+form label {
+  display: block;
+}
+
+.link {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
